@@ -1,5 +1,5 @@
 <a>
-     <img src="https://github.com/AndreMartins21/MATPLOTLIB/blob/main/matplotlib-img.png"/>
+     <img src="https://github.com/AndreMartins21/MATPLOTLIB/blob/main/IMAGENS%20-%20PLT/logo_matplt.png"/>
 </a>
 
 # <> BIBLIOTECA MATPLOTLIB
