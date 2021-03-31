@@ -8,6 +8,8 @@
 
 ## - Nesse repositório estarei compartilhando um resumo que fiz da biblioteca MATPLOTLIB, mais especificamente da lib matplotlib.pyplot; 
 
+### Caso queira abrir o código direto no Google Colab, utiliza o link: https://github.com/AndreMartins21/MATPLOTLIB/blob/main/MATPLOTLIB.ipynb
+
 <a>
      <img src="https://github.com/AndreMartins21/MATPLOTLIB/blob/main/IMAGENS%20-%20PLT/matplotlib-img.png"/>
 </a>
